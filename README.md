@@ -1,0 +1,1 @@
+## This project is a supermarket system that allows users to purchase products and generate invoices. It also includes a user panel—commonly referred to as an admin panel—designed with a graphical interface for managing and registering available products.
